@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Wynton123
-- 👀 I’m interested in blockchain, sports and music.
-- 🌱 I’m currently learning python at the very early stage.
-- 💞️ I’m looking to join some beginner's groups and learn together.
-- 📢 I'm working in blockchain industry so I'm also looking for potential developers for our ecosystem.
-- 📫 Looking forward to new things!
+- 👀 I’m interested in sports and everything can make magic on sports, especially sports related to the sea.
+- 🌱 I’m currently learning python at the very early stage, trying to apply it to my surging ideas.
+- 📢 I'm always looking forward to new things!
 
 <!---
 Wynton123/Wynton123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
