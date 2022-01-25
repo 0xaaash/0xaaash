@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ash.matsu!
 - 👀 It's definitely not my true name if you are asking.
-- 🌱 I'm trying to make some tools for the sports industry.
+- 🌱 I'm trying to learn and do something for the outdoor sports industry.
 - 📢 I'm always looking forward to new things!
 
 <!---
